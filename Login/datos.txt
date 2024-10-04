@@ -1,0 +1,3 @@
+david;$2y$10$pPDAItJfbHWQN/AKgfaVI.d8seR425tlEri6cHY84YSRvE6D7FhVy
+raul;$2y$10$VkN.XLfYxzWLSJ2lM65zG.hesadiwns3H18rR3TWDfCz4PwAOrqh.
+pablo;$2y$10$tdkv1GMNseLqRxzFRgH4T.zE3VXqu.e1FATpX089id/8iX.VvVnHS
